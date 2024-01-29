@@ -1,6 +1,6 @@
-# SVCMR
+# secure and verifiable cross-modal retrieval.
 
-  Implementation of secure and verifiable cross-modal retrieval.
+## Introduction
 
 The functions of different python files are introduced below:
 
@@ -19,3 +19,9 @@ The functions of different python files are introduced below:
 7) simulator: Simulation of communication.
 
 8) main: Model evaluation.
+
+## Data Process
+
+Original multi-modal datasets can be found at https://huggingface.co/datasets/wikipedia, https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html. 
+
+Feature vectors are exacted by https://github.com/penghu-cs/DSCMR. 
